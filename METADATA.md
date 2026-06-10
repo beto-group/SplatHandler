@@ -16,6 +16,7 @@ repository:
 missing: []
 resources:
   - assets/preview.webp
+  - assets/preview.gif
   - example/EXAMPLE.md
 type: DatacoreComponent
 target: Datacore

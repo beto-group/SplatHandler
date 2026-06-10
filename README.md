@@ -19,7 +19,7 @@
   <hr>
 </div>
 
-![Splat Handler Preview](assets/preview.webp)
+<img src="assets/preview.gif" alt="Splat Handler Preview" width="100%">
 
 <div align="center">
   <p>
