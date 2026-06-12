@@ -224,7 +224,7 @@ async function loadMultiple(dc, scripts, parallel = false) {
 }
 
 async function fetchAndCacheImage(dc, url) {
-  const cacheDir = dc.resolvePath("_RESOURCES/DATACORE/_DONE/SPLAT HANDLER/data/cache/images");
+  const cacheDir = dc.resolvePath("_RESOURCES/DATACORE/_DONE/SplatHandler/data/cache/images");
   const adapter = dc.app.vault.adapter;
 
   const safeFilename = url.replace(/^https?:\/\//, '').replace(/[\/\\?%*:|"<>]/g, '_');

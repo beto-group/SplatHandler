@@ -15,8 +15,8 @@ repository:
   - https://github.com/beto-group/SplatHandler
 missing: []
 resources:
-  - assets/preview.webp
-  - assets/preview.gif
+  - assets/image/preview_1.webp
+  - assets/videos/preview.gif
   - example/EXAMPLE.md
 type: DatacoreComponent
 target: Datacore
